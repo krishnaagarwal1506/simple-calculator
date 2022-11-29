@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Simple Calculator React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Simple Calculator Project made using react hooks
+
+## Project Images
+
+![Screenshot](./Screenshot%202022-11-29%20114019.png)
 
 ## Available Scripts
 
